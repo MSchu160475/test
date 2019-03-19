@@ -11,17 +11,18 @@
   },
   "dependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:server": "karma start",
+    "test:client": "karma run"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sspringer82/test.git"
+    "url": "git+https://github.com/MSchu160475/test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sspringer82/test/issues"
+    "url": "https://github.com/MSchu160475/test/issues"
   },
-  "homepage": "https://github.com/sspringer82/test#readme"
+  "homepage": "https://github.com/MSchu160475/test#readme"
 }
